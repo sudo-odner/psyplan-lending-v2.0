@@ -1,0 +1,21 @@
+.Mini-problem{
+    width: 380px;
+}
+.Mini-problem-txt{
+    text-align: left;
+    color: white;
+    margin: 0 20px 20px 20px;
+}
+
+.Mini-problem-txt-first{
+    font-family: 'Montserrat-Bold';
+    font-size: 24px;
+    letter-spacing: -0.01em;
+    line-height: 3;
+}
+
+.Mini-problem-txt-second{
+    font-family: 'Montserrat-Regular';
+    font-size: 16px;
+    line-height: 1;
+}
